@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Catalunya</h3>
 
 <h5 align="left">"La programació és un art, on la precisió i la creativitat es combinen per a crear solucions útils i belles."</h5>
-<h5 align="left">"La programació és una carrera emocionant, on cada dia es presenta una nova oportunitat per a aprendre i créixer com a professional."</h5>
+<h5 align="left">"És una carrera emocionant, on cada dia es presenta una nova oportunitat per a aprendre i créixer com a professional."</h5>
 <p align="left">
 </p>
 
