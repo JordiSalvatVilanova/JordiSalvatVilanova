@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jordi</h1>
 <h3 align="center">A passionate frontend developer from Catalunya</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">"La programació és un art, on la precisió i la creativitat es combinen per a crear solucions útils i belles."</h3>
+<h3 align="left">"La programació és una carrera emocionant, on cada dia es presenta una nova oportunitat per a aprendre i créixer com a professional."</h3>
 <p align="left">
 </p>
 
