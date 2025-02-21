@@ -9,7 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.sap.com/products/technology-platform/abap.html" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sap/sap-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udemy.com%2Fes%2Ftopic%2Fsap-abap%2F&psig=AOvVaw1D2XdyQ06rMJHQOi8tyYCi&ust=1740216920635000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCi3a671IsDFQAAAAAdAAAAABAE" alt="abap sap" width="40" height="40"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/sap-3.svg" alt="abap sap" width="40" height="40"/> 
 </a>
 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
