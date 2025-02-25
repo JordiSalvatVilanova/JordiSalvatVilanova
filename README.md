@@ -130,7 +130,7 @@
 <!-- Logo de Eclipse -->
 <span style="display: inline-block;">
     <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-      <img src="https://images.seeklogo.com/logo-png/27/2/eclipse-logo-png_seeklogo-273166.png" alt="Eclipse" width="40" height="40"/>
+      <img src="https://e7.pngegg.com/pngimages/546/290/png-clipart-eclipse-computer-icons-integrated-development-environment-computer-software-eclipse-purple-furniture-thumbnail.png" alt="Eclipse" width="40" height="40"/>
     </a>
 </span>
 
