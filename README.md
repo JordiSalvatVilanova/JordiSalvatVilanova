@@ -67,7 +67,7 @@
 <!-- Logo del CMD -->
 <span style="display: inline-block;">
     <a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Windows_Command_Prompt_icon.svg/1024px-Windows_Command_Prompt_icon.svg.png" alt="CMD" width="40" height="40"/> 
+      <img src="https://banner2.cleanpng.com/20180419/vlw/avfzfsbi3.webp" alt="CMD" width="40" height="40"/> 
     </a>
 </span>
 
