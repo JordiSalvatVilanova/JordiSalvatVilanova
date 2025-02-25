@@ -71,6 +71,13 @@
     </a>
 </span>
 
+<!-- Logo del mark down -->
+<span style="display: inline-block;">
+    <a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/" target="_blank" rel="noreferrer">
+      <img src="https://i0.wp.com/girlknowstech.com/wp-content/uploads/2016/04/markdown-1.png?fit=1664%2C1024&ssl=1" alt="CMD" width="40" height="40"/> 
+    </a>
+</span>
+
 <!-- Logo de Docker -->
 <span style="display: inline-block;">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
