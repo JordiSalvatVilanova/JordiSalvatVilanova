@@ -123,9 +123,17 @@
 <!-- Logo de Visual Studio -->
 <span style="display: inline-block;">
     <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio" width="40" height="40"/> 
     </a>
 </span>
+
+<!-- Logo de Eclipse -->
+<span style="display: inline-block;">
+    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+      <img src="https://images.seeklogo.com/logo-png/27/2/eclipse-logo-png_seeklogo-273166.png" alt="Eclipse" width="40" height="40"/>
+    </a>
+</span>
+
 
 </p>
 
