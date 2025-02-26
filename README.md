@@ -46,7 +46,7 @@
 <!-- Logo de GitHub -->
 <span style="display: inline-block;">
     <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub" width="40" height="40"/> 
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJIvS6SUwk7myZuF8KCubhaSObstIjQCAZg&s" alt="GitHub" width="40" height="40"/> 
     </a>
 </span>
 
