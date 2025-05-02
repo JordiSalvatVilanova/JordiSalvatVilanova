@@ -2,8 +2,8 @@
 <h3 align="center">A passionate developer from Catalunya</h3>
 <h3> My projects:</h3>
 
-<h2> <a href="http://jordipo.infinityfreeapp.com/">Pokedex online</a> </h2>
-<h2> <a href="http://jordipo.infinityfreeapp.com/simpsons/">Simpsons List</a> </h2>
+<h2> <a href="http://jordipo.infinityfreeapp.com/" target="_blank">Pokedex online</a> </h2>
+<h2> <a href="http://jordipo.infinityfreeapp.com/simpsons/" target="_blank">Simpsons List</a> </h2>
 
 
 <h5 align="left">"La programació és un art, on la precisió i la creativitat es combinen per a crear solucions útils i belles."</h5>
