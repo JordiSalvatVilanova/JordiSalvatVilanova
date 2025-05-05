@@ -4,6 +4,7 @@
 
 <h2> <a href="http://jordipo.infinityfreeapp.com/" target="_blank" rel="noopener noreferrer">Pokedex online</a> </h2>
 <h2> <a href="http://jordipo.infinityfreeapp.com/simpsons/" target="_blank" rel="noopener noreferrer">Simpsons List</a> </h2>
+<h2> <a href="http://jordipo.infinityfreeapp.com/wordleibc/" target="_blank" rel="noopener noreferrer">Wordle in Catalan</a> </h2>
 
 
 <h5 align="left">"La programació és un art, on la precisió i la creativitat es combinen per a crear solucions útils i belles."</h5>
