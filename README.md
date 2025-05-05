@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jordi</h1>
-<h3 align="center">A passionate developer from Catalunya</h3>
+<h3 align="center">A passionate developer with over 2 years of experience in the IT sector.</h3>
 <h3> My projects:</h3>
 
 <h2> <a href="http://jordipo.infinityfreeapp.com/" target="_blank" rel="noopener noreferrer">Pokedex online</a> </h2>
